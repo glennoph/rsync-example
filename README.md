@@ -2,7 +2,7 @@
 
 * [rsync](https://man7.org/linux/man-pages/man1/rsync.1.html)
 
-       Local:
+## Local:
  >          rsync [OPTION...] SRC... [DEST]
 
 ## options
