@@ -12,8 +12,9 @@
 > -a  archive files
 
 > -v  verbose
+
 > -z  compress files during transfer
+ 
 > -h  output numers in human readable format
+ 
 > -n  dry run (no transfer)
-
-
