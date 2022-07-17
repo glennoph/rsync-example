@@ -39,3 +39,12 @@
 > -h  output numers in human readable format
  
 > -n  dry run (no transfer)
+
+## rsync examples
+
+1. rsync-copy-dryrun.sh - rsync copy* dry run
+2. rsync-copy.sh        - rsync copy* to dest
+3. rsync-copy-cp-dryrun.sh - rsync copy* & cp* dry run
+4. rsync-copy-cp.sh        - rsync copy* & cp* to dest 
+
+
