@@ -8,7 +8,9 @@
 ## options
 
 > -u  update files
+
 > -a  archive files
+
 > -v  verbose
 > -z  compress files during transfer
 > -h  output numers in human readable format
