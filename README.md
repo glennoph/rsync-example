@@ -1,6 +1,6 @@
 # rsync examples
 
-* [rsync](https://man7.org/linux/man-pages/man1/rsync.1.html)
+* [rsync-doc](https://man7.org/linux/man-pages/man1/rsync.1.html)
 
 ## Local:
 > rsync [OPTION...] SRC... [DEST]
